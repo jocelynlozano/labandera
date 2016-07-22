@@ -1,0 +1,10 @@
+*{
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+.amarillo{
+	display: block;
+	background-color: yellow;
+	height: 80px;
+}

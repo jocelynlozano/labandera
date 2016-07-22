@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	margin: 1px;
+	padding: 3px;
+}
+.primera{
+	background-color: yellow;
+	display: inline-block;
+	height: 80px;
+	width: 200px;
+}
+.segunda{
+	background-color: red;
+	display: inline-block;
+	height: 80px;
+	width: 200px;
+}
+.tercera{
+	background-color: yellow;
+	display: inline-block;
+	height: 80px;
+	width: 200px;
+}

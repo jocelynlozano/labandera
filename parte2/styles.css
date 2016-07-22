@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+	width: 200px;
+	fon
+}
+.primera{
+	background-color: yellow;
+	display: block;
+	height: 80px;
+}
+.segunda{
+	background-color: red;
+	display: block;
+	height: 80px;
+}
+.tercera{
+	background-color: yellow;
+	display: block;
+	height: 80px;
+}
